@@ -1,39 +1,31 @@
 
 # Selected Computer Science Projects
 
-Computer Science B.Sc. student at the Technion – Israel Institute of Technology, with hands-on experience in software development, low-level programming, algorithms, and system-oriented projects.
+Computer Science B.Sc. student at the Technion – Israel Institute of Technology, with hands-on experience in software development, systems programming, and algorithm design.
 
-This repository showcases selected academic projects and implementations, demonstrating analytical thinking, problem-solving, debugging, and practical programming skills.
+This repository showcases selected academic projects and technical implementations, demonstrating problem-solving skills and the practical application of computer science fundamentals.
+
+## Project Areas
+
+| Area | Focus |
+| --- | --- |
+| [Operating Systems](Operating%20system) | Systems programming, concurrency and memory management |
+| [Computer Architecture](Computer%20architecture) | Processor architecture and memory systems |
+| [Advanced Data Structures](Data%20Structures/advanced-data-structures) | Efficient data structures and algorithms |
+| [Artificial Intelligence](Introduction%20to%20AI/reinforcement-learning) | Reinforcement learning and decision-making |
+| [IoT Patient Monitoring](IoT%20Patient%20Monitoring) | Embedded systems and hardware-software integration |
 
 ## Technical Skills
 
-- Programming: C, C++, Python
-- Systems: Linux, Operating Systems, Computer Architecture
-- Networking: TCP/IP, DNS, DHCP, HTTP
-- Core CS: Algorithms, Data Structures, Object-Oriented Programming
-- Tools: Git, GitHub, Linux Development Environment
+- **Languages:** C, C++, Python
+- **Core CS:** Algorithms, Data Structures, OOP
+- **Systems:** Linux, Low-Level Programming, Computer Architecture
+- **Development:** Git, Debugging, Concurrent Programming
 
-## Selected Projects
+Each project directory contains its implementation and project-specific documentation.
 
-### Operating Systems
-Low-level programming, Linux kernel, system calls, memory management, synchronization, and system-level debugging.
+## Professional Interests
 
-### Computer Architecture
-Processor architecture, memory hierarchy, caching, and performance analysis.
-
-### Advanced Data Structures
-Implementation and analysis of advanced data structures, focusing on efficiency and algorithmic complexity.
-
-### IoT-Based Remote Patient Monitoring System
-A collaborative IoT project focused on remote patient monitoring and the integration of hardware and software components.
-
-### Reinforcement Learning
-Implementation of reinforcement learning algorithms and decision-making techniques.
-
-## About Me
-
-Motivated Computer Science student with strong problem-solving skills, attention to detail, and the ability to learn independently and collaborate effectively.
-
-Particularly interested in software engineering, low-level development, and complex software systems.
+Software Engineering | Systems Programming | Algorithms | R&D
 
 Open to student software engineering and R&D opportunities.
